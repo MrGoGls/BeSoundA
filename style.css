@@ -4,7 +4,7 @@
 }
 
 header {
-	background: url(img/background1.png) no-repeat;
+	background: url(background1.png) no-repeat;
 	background-position: 0px 460px;
 }
 
@@ -13,7 +13,7 @@ body {
 	margin: 0;
     font-family: Roboto Black , sans-serif;
     height: 100%;
-    background: url(img/background2.png) no-repeat;
+    background: url(background2.png) no-repeat;
 	background-position: -105px 1605px;
 }
 
